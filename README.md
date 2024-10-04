@@ -73,5 +73,5 @@ Future improvements could include exploring data augmentation techniques to impr
 
 ## 8. References
 #### TensorFlow Documentation
-#### SVHN Dataset on Kaggle : https://www.kaggle.com/code/ehtyalee1919/street-view-housing-number-recognition/edit
+#### SVHN Dataset on Kaggle
 #### Relevant literature on CNNs and image classification.
